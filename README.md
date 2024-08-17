@@ -1,25 +1,25 @@
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/nabeel-ahmed-amir/">Nabeel </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+# Hi, I'm Nabeel Ahmed👋
 
-#### Software engineer from Pakistan looking to bring innovative ideas to life
+I'm a Full Stack Engineer currently working at **Educative**. I specialize in building **scalable web applications**, boosting **SEO** for sites, and setting up **CI/CD pipelines** to streamline deployment processes.
 
-## 🧑🏽‍💻 What am I doing?
+## 🔧 Technologies & Tools
+- **Frontend:** React, NextJs
+- **Backend:** Node.js, Express, Django, Flask, FastAPI
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **DevOps:** Docker, Jenkins, GitHub Actions
+- **Cloud:** Azure, Google Cloud Platform
+- **Other:** RESTful APIs, GraphQL, WebSocket
 
-<div style="line-height: 1.15">
-    <b>🚀 Educative </b>
-    <p>Software Engineer (E1)</p>
-</div>
+## 🚀 What I'm Working On
+- Enhancing web applications with **SEO strategies** to improve visibility.
+- Architecting **scalable solutions** to handle growing traffic efficiently.
+- Implementing **CI/CD pipelines** for smooth and reliable deployment processes.
+  
+## 🌱 What I'm Learning
+- Exploring **Large Language Models (LLMs)** and their integration into web applications.
+- Experimenting with AI-driven solutions to optimize user experiences.
 
-## 🧑🏽‍💻 Experience ?
-<div style="line-height: 1.15">
-    <b>🚀 Intech Process Automation </b>
-    <p>Junior Software Engineer</p>
-</div>
-
-## 💻 Technical Skills
-
-- Web and Desktop Application Development.
-
-- AI/ML Model Development.
+---
 
 <h2 align="left">🌐 How to connect?</h2>
 <p align="left">
@@ -27,3 +27,6 @@
   <a href="https://www.linkedin.com/in/nabeel-ahmed-amir/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/nabeelahmed-090"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+
+
