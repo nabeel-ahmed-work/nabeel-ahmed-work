@@ -15,12 +15,6 @@
     <p>Junior Software Engineer</p>
 </div>
 
-<div style="line-height: 1.15">
-    <b>👨‍🏫 National University of Computer and Emerging Sciences</b>
-    <p>Teaching Assistant, BS (Programming Fundamentals)</p>
-</div>
-
-
 ## 💻 Technical Skills
 
 - Web and Desktop Application Development.
